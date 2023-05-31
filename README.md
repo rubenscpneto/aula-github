@@ -1,13 +1,6 @@
-### Aula de Git e Github
+### Git e Github Lessons
 
-
-# Aula de Git e Github
-
-This stage I learned:
-
-- Git init
-- Git Add and Commit changes
-- Show commit log
+Learning how to use Git and Github better.
 
 
 ## 🔗 Links
